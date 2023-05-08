@@ -114,7 +114,7 @@
 {
   "id" : 16,
   "title" : "Cowboy Hat",
-  "image" : "cowboyhat",
+  "image" : "cowboy",
   "description" : "For centuries, the cowboy hat has been a staple in Mexico and the US history and culture. With a wide brim and a high crown, this headwear is suited to outdoor activities in dry and hot environments. While you would normally see these with a pair of jeans and western boots, you can style them with almost any casual outfit.",
   "price" : 14.00
 },
@@ -128,7 +128,7 @@
 {
   "id" : 18,
   "title" : "Boonie Hat",
-  "image" : "booniehat",
+  "image" : "boonie",
   "description" : "The Boonie hat is a popular choice for outdoor activities, especially in tropical climates. Originally intended for the army, it features a bucket hat silhouette with a wide brim. It’s usually made from soft and floppy fabrics and an adjustable chin strap. You’ll usually find them with eyelets or mesh on the crown to provide breathability in hot environments.",
   "price" : 19.99
 },
