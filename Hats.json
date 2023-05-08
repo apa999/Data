@@ -1,5 +1,5 @@
 {
-  "Hats": {"Hat":[{
+  "Hats": [{
   "id" : "0",
   "title" : "Snapback",
   "image" : "Snapback",
@@ -138,6 +138,6 @@
   "image" : "TopHat",
   "description" : "There has still never been a piece of headwear as dominating or as sophisticated as the top hat. Don’t panic, we’re not suggesting you need to go Abe Lincoln style, but a shorter, stylish top hat will undoubtedly make you stand out in a crowd. These tall, flat-crowned, broad-brimmed hats were once the height of high-class dressing, but today they are a rarity. If you’re looking for a fun and fancy way to class up your next formal event, why not try a top hat?",
   "price" : "10.00"
-}]}
+}]
 }
 
